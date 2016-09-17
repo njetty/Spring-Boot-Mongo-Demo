@@ -6,3 +6,7 @@ services:
 - mongodb
 script:
 - test/run.sh
+notifiations:
+  email:
+    - naveenjetty31@gmail.com
+    - njetty@umail.iu.edu
